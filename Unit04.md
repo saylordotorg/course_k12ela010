@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA010: English Language Arts 10"
+course_description: "This course is the second in the sequence of high school-level English courses and aims to further develop your skills in literary analysis."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Speech and Rhetoric** <span id="4"></span> 
 *To continue the analysis of texts, you will be introduced to a series
 of historically important speeches. These speeches vary in historical

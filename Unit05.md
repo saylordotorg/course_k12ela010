@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA010: English Language Arts 10"
+course_description: "This course is the second in the sequence of high school-level English courses and aims to further develop your skills in literary analysis."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Up from Slavery** <span id="5"></span> 
 *After having learned rhetoric and studied examples of historical
 speeches, it is sensible for you to follow that by reading a longer,

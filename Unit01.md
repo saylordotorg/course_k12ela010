@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA010: English Language Arts 10"
+course_description: "This course is the second in the sequence of high school-level English courses and aims to further develop your skills in literary analysis."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Writing Skills** <span id="1"></span> 
 *One of the biggest discrepancies among students is writing ability,
 especially with regard to grammar and writing mechanics in general.

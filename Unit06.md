@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA010: English Language Arts 10"
+course_description: "This course is the second in the sequence of high school-level English courses and aims to further develop your skills in literary analysis."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Macbeth** <span id="6"></span> 
 *Shakespeare can provide rigorous and challenging (but rewarding)
 reading experiences for students. As a later unit in the course,*
