@@ -132,4 +132,11 @@ assignments for each.
 you will need to spend on each subunit. In addition, each resource box
 gives a time estimate, making it easy to plan your time.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/k12ela010/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12ela010/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12ela010/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12ela010/Unit04/)
+- [Unit 5](https://legacy.saylor.org/k12ela010/Unit05/)
+- [Unit 6](https://legacy.saylor.org/k12ela010/Unit06/)
