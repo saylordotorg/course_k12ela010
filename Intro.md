@@ -157,3 +157,4 @@ gives a time estimate, making it easy to plan your time.
 - [Unit 4](https://legacy.saylor.org/k12ela010/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12ela010/Unit05/)
 - [Unit 6](https://legacy.saylor.org/k12ela010/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12ELA010/K12ELA010-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12ELA010/K12ELA010-FinalExam-Answers.html)
